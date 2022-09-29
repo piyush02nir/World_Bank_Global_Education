@@ -3,13 +3,13 @@ The World Bank EdStats All Indicator Query holds over 4,000 internationally comp
 
 **Programming Language :** Python
 
-**Libraries used : Pandas, Numpy, Matplotlib, Math
+**Libraries used :** Pandas, Numpy, Matplotlib, Math
 
 **NoteBook :** Google Colab
 
 **Dataset Source :** https://www.kaggle.com/datasets/theworldbank/education-statistics
 
-##**Content**
+**Content**
 
 The World Bank EdStats All Indicator Query holds over 4,000 internationally comparable indicators that describe education access, progression, completion, literacy, teachers, population, and expenditures. The indicators cover the education cycle from pre-primary to vocational and tertiary education.
 
@@ -19,13 +19,13 @@ This is a dataset hosted by the World Bank. The organization has an open data pl
 
 The following Indicators have been chosen for analysis:-
 
-##**Economy:-**
+**Economy:-**
 
 ●	GDP at market prices (current US$)  NY.GDP.MKTP.CD
 
 ●	GDP per capita (current US$)   NY.GDP.PCAP.CD
 
-##**Early Childhood Education:-**
+**Early Childhood Education:-**
 
 ●	Out-of-school children of primary school age, both sexes (number)	  SE.PRM.UNER
 
@@ -37,21 +37,21 @@ The following Indicators have been chosen for analysis:-
 
 ●	Pupil-teacher ratio in primary education (headcount basis)	SE.PRM.ENRL.TC.ZS
 
-##**Expenditures:-**
+**Expenditures:-**
 
 ●	Government expenditure on education as % of GDP (%)    SE.XPD.TOTL.GD.ZS
 
 ●	Expenditure on education as % of total government expenditure (%) SE.XPD.TOTL.GB.ZS
 
-##**Literacy among working population:-**
+**Literacy among working population:-**
 
 ●	Labor force, total  SL.TLF.TOTL.IN
 
-##**Population:-**
+**Population:-**
 
 ●	Population growth (annual %)   SP.POP.GROW
 
-##**Learning Outcomes:-**
+**Learning Outcomes:-**
 
 ●	PISA: Mean performance on the Reading scale (number)  LO.PISA.REA                      
 
